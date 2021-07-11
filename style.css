@@ -43,6 +43,20 @@ body {
   background-image: url(./react_card.png);
 }
 
+.rails-card {
+  width: 224.24px;
+  height: 126.24px;
+  margin: 50px auto;
+  background-image: url(./RubyonRails.png);
+}
+
+.vue-card {
+  width: 166px;
+  height: 143px;
+  margin: 50px auto;
+  background-image: url(./vue.png);
+}
+
 .showcase-texts {
   width: 220px;
   height: 238px;
