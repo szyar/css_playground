@@ -31,12 +31,29 @@ body {
   text-align: center;
 }
 
+/* for react */
 .course-pic {
   width: 300px;
   height: 200px;
   margin: 70px auto;
   background-image: url(./react_large.png);
 }
+
+/* for rails */
+/* .course-pic {
+  width: 360px;
+  height: 203px;
+  margin: 70px auto;
+  background-image: url(./rails_large.png);
+} */
+
+/* for vue */
+/* .course-pic {
+  width: 300px;
+  height: 259px;
+  margin: 70px auto;
+  background-image: url(./vue_large.png);
+} */
 
 .course-content {
   margin: auto 100px;
